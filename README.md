@@ -6,7 +6,7 @@ http://intranet.med.u-szeged.hu/src/phonebook
 
 https://ogyei.gov.hu/gyogyszeradatbazis/
 
-https://identity.pharmindex.hu/Account/Login
+https://www.pharmindex-online.hu/
 
 https://bsz.mentok.hu/cgi-bin/evisapi.dll/?REAL_RESP=1
 
