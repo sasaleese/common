@@ -12,7 +12,9 @@ https://bsz.mentok.hu/cgi-bin/evisapi.dll/?REAL_RESP=1
 
 https://ehvb.gov.hu/
 
-https://docs.google.com/forms/d/e/1FAIpQLSelFgy-kFWtL_iayQyhZ-uIZ68ufzm8tlcd0D7O8Qod18yVcg/viewform?vc=0&c=0&w=1&flr=0
+https://docs.com/forms/d/e/1FAIpQLSelFgy-kFWtL_iayQyhZ-uIZ68ufzm8tlcd0D7O8Qod18yVcg/viewform?vc=0&c=0&w=1&flr=0
+
+https://met-oszt-prod.web.app/login
 
 - - -
 
