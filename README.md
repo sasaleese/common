@@ -16,6 +16,8 @@ https://docs.com/forms/d/e/1FAIpQLSelFgy-kFWtL_iayQyhZ-uIZ68ufzm8tlcd0D7O8Qod18y
 
 https://met-oszt-prod.web.app/login
 
+https://u-szeged.hu/szakk/clab/betegellatas/kerolapok
+
 - - -
 
 A beteget ? miatt vettük fel osztályunkra.
