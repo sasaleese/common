@@ -1,0 +1,3 @@
+Get-WinEvent -LogName System |  
+Where-Object {$_.ProviderName -eq "WHEA-Logger"} |  
+Select-Object TimeCreated, Id, LevelDisplayName, Message
